@@ -1,0 +1,11 @@
+C:\Users\gwang\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\gwang\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\gwang\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.frmLogin.resources
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.frmLoggedIn.resources
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\gwang\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
