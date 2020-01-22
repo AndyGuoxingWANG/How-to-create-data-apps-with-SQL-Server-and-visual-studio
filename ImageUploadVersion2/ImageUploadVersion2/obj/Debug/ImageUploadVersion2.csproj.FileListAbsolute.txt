@@ -1,0 +1,10 @@
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\bin\Debug\ImageUploadVersion2.exe.config
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\bin\Debug\ImageUploadVersion2.exe
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\bin\Debug\ImageUploadVersion2.pdb
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\obj\Debug\ImageUploadVersion2.csprojAssemblyReference.cache
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\obj\Debug\ImageUploadVersion2.Form1.resources
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\obj\Debug\ImageUploadVersion2.Properties.Resources.resources
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\obj\Debug\ImageUploadVersion2.csproj.GenerateResource.cache
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\obj\Debug\ImageUploadVersion2.csproj.CoreCompileInputs.cache
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\obj\Debug\ImageUploadVersion2.exe
+C:\Users\gwang\source\repos\ImageUploadVersion2\ImageUploadVersion2\obj\Debug\ImageUploadVersion2.pdb
